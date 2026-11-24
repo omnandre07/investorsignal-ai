@@ -3,3 +3,9 @@ yfinance
 pandas
 plotly
 groq
+streamlit>=1.50
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+groq>=0.9
